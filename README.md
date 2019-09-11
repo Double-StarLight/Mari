@@ -17,6 +17,6 @@ Server format: https://raw.githubusercontent.com/<User>/<Repository>/<Branch>/Pa
 [Thank them!](https://disconnected.systems/blog/archlinux-repo-in-a-git-repo/)
 
 
-##WARNING
+## WARNING
  - This DO NOT work in gitlab. I tried already, there is no raw API like Github. 
  And also github has more storage limit, so... it's better here anyway
